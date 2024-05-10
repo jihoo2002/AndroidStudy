@@ -72,5 +72,15 @@
         android:textColor="#FF0000"
         android:layout_margin="10dp"
         />
+    <android.widget.TextView
+        android:id="@+id/TextResult1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="계산 결과 : "
+        android:textSize="20dp"
+        android:textColor="#FF0000"
+        android:layout_margin="10dp"
+        />
+
 
 </LinearLayout>
